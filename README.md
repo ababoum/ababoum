@@ -14,10 +14,10 @@
   - Python <br>
 
 📫 How to reach me: mababou@student.42.fr
-
+<!-- 
 [![mababou's 42 stats](https://badge42.vercel.app/api/v2/stats/cl180j5x4000609mclltm1fox?cursusId=21)](https://github.com/ababoum)
 
-[![mababou's 42 stats](https://badge42.vercel.app/api/v2/stats/cl180j5x4000609mclltm1fox?cursusId=9)](https://github.com/ababoum)
+[![mababou's 42 stats](https://badge42.vercel.app/api/v2/stats/cl180j5x4000609mclltm1fox?cursusId=9)](https://github.com/ababoum) -->
 
 <!--
 **ababoum/ababoum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
